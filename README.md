@@ -19,7 +19,8 @@ This project addresses that challenge by developing an interactive Power BI dash
 - Power Query – Data cleaning and transformation.
 - <img width="851" height="287" alt="Screenshot 2026-11-11 120827" src="https://github.com/user-attachments/assets/a546eabe-88ad-4627-b131-053fe41201b5" />
 
-- Power BI – Data modelling and visualization. <img width="263" height="286" alt="Screenshot 2026-11-11 121214" src="https://github.com/user-attachments/assets/dee2e0a2-b3f7-4548-963a-c22f1d1ef21c" />
+- Power BI – Data modelling and visualization.
+-  <img width="263" height="286" alt="Screenshot 2026-11-11 121214" src="https://github.com/user-attachments/assets/dee2e0a2-b3f7-4548-963a-c22f1d1ef21c" />
 
 - DAX – Calculated measures and business performance metrics.
 - Star Schema – Organizing fact and dimension tables for analysis.
@@ -33,7 +34,8 @@ The report consists of four interactive dashboard pages:
 - Monthly and year-over-year revenue growth.
 - Revenue trends and category contributions.
 - Top-performing products.
-- Discount analysis. <img width="438" height="248" alt="Screenshot 2026-11-11 120952" src="https://github.com/user-attachments/assets/58b452e8-e6aa-4925-a818-6f276db43af3" />
+- Discount analysis.
+-  <img width="438" height="248" alt="Screenshot 2026-11-11 120952" src="https://github.com/user-attachments/assets/58b452e8-e6aa-4925-a818-6f276db43af3" />
 
 
 **2. Product Performance Dashboard**
@@ -41,14 +43,16 @@ The report consists of four interactive dashboard pages:
 - Quantity sold and profitability.
 - Average selling price.
 - Top products by revenue and quantity.
-- Product performance trends.  <img width="446" height="254" alt="Screenshot 2026-11-11 121010" src="https://github.com/user-attachments/assets/2955cf68-c3e4-4297-8463-3c41bbdc8cb6" />
+- Product performance trends.
+-   <img width="446" height="254" alt="Screenshot 2026-11-11 121010" src="https://github.com/user-attachments/assets/2955cf68-c3e4-4297-8463-3c41bbdc8cb6" />
 
 
 **3. Warehouse Performance Dashboard**
 - Revenue, quantity dispatched, and profit by warehouse.
 - Warehouse contribution to total revenue.
 - Monthly performance comparisons.
-- Warehouse ranking and regional performance.  <img width="443" height="251" alt="Screenshot 2026-11-11 121025" src="https://github.com/user-attachments/assets/aeaa0cd9-4320-4234-beb2-9a39ce0fa35d" />
+- Warehouse ranking and regional performance.
+-  <img width="443" height="251" alt="Screenshot 2026-11-11 121025" src="https://github.com/user-attachments/assets/aeaa0cd9-4320-4234-beb2-9a39ce0fa35d" />
 
 
 **4. Supplier Performance Dashboard**
@@ -56,7 +60,8 @@ The report consists of four interactive dashboard pages:
 - Local versus international supplier analysis.
 - Supplier lead-time classification.
 - Supplier performance comparisons.
-- Top-performing suppliers.  <img width="431" height="251" alt="Screenshot 2026-11-11 121043" src="https://github.com/user-attachments/assets/c10b7078-9536-4896-9a54-9a7d3d841495" />
+- Top-performing suppliers.
+- <img width="431" height="251" alt="Screenshot 2026-11-11 121043" src="https://github.com/user-attachments/assets/c10b7078-9536-4896-9a54-9a7d3d841495" />
 
 
 ## Key Business Insights
