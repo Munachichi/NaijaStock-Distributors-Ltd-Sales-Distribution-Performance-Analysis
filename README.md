@@ -1,4 +1,3 @@
-# NaijaStock-Distributors-Ltd-Sales-Distribution-Performance-Analysis
 # NaijaStock Distributors Ltd – Sales & Distribution Performance Analysis
 
 ## Project Overview
